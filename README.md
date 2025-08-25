@@ -1,14 +1,14 @@
-\# 🧠 AI-NLP-Learning-Journey
+\ 🧠 AI-NLP-Learning-Journey
 
 
 
 This repository tracks my hands-on learning journey through:
 
-\*\*Machine Learning, Deep Learning, NLP, AI Foundations, and Prompt Engineering.\*\*
+Machine Learning, Deep Learning, NLP, AI Foundations, and Prompt Engineering.\*\*
 
 
 
-\## 📁 Project 1: NLP Text Classification (Starter)
+\📁 Project 1: NLP Text Classification (Starter)
 
 
 
@@ -24,7 +24,7 @@ This notebook demonstrates a beginner-friendly text classifier using:
 
 
 
-\### 📄 Dataset
+\ 📄 Dataset
 
 Custom sample dataset with labelled text:
 
@@ -34,7 +34,7 @@ Custom sample dataset with labelled text:
 
 
 
-\### 🔧 Techniques Used
+\🔧 Techniques Used
 
 \- Text Preprocessing
 
@@ -48,7 +48,7 @@ Custom sample dataset with labelled text:
 
 
 
-\### ✅ Results
+\✅ Results
 
 \- Accuracy: \*\*100%\*\* on small test sample
 
@@ -56,7 +56,7 @@ Custom sample dataset with labelled text:
 
 
 
-\## 🚀 What’s Next?
+\ 🚀 What’s Next?
 
 \- ✅ Upload more notebooks
 
